@@ -42,7 +42,7 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
         <div
           id='post-cover-wrapper'
           style={{
-            filter: 'blur(15px)'
+            filter: 'blur(1000px)'
           }}
           // className='coverdiv lg:opacity-50 lg:translate-x-96 lg:rotate-12'>
           className='coverdiv w-full lg:opacity-100'>
