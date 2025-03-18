@@ -23,7 +23,7 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
     <div
       id='post-bg'
       // className='md:mb-0 -mb-5 w-full h-[30rem] relative md:flex-shrink-0 overflow-hidden bg-cover bg-center bg-no-repeat z-10'>
-      className='md:mb-0 -mb-5 w-full h-[30rem] relative md:flex-shrink-0 overflow-hidden bg-cover bg-center bg-no-repeat z-10 lg:opacity-90'>
+      className='md:mb-0 -mb-5 w-full h-[30rem] relative md:flex-shrink-0 overflow-hidden bg-cover bg-center bg-no-repeat z-10 lg:opacity-0'>
       <style jsx>{`
         .coverdiv:after {
           position: absolute;
@@ -32,7 +32,7 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
           height: 100%;
           top: 0;
           left: 0;
-          box-shadow: 110px -130px 500px 100px
+          // box-shadow: 110px -130px 500px 100px
             ${isDarkMode ? '#CA8A04' : '#0060e0'} inset;
         }
       `}</style>
