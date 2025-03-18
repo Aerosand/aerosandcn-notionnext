@@ -23,11 +23,10 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
     <div
       id='post-bg'
       // className='md:mb-0 -mb-5 w-full h-[30rem] relative md:flex-shrink-0 overflow-hidden bg-cover bg-center bg-no-repeat z-10'>
-      className='md:mb-0 -mb-5 w-full h-[30rem] relative md:flex-shrink-0 overflow-hidden bg-cover bg-center bg-no-repeat z-10 lg:opacity-85'>
+      className='md:mb-0 -mb-5 w-full h-[30rem] relative md:flex-shrink-0 overflow-hidden bg-cover bg-center bg-no-repeat z-10 lg:opacity-90'>
       <style jsx>{`
         .coverdiv:after {
           position: absolute;
-          filter: 'blur(5px)'; // mioz
           content: '';
           width: 100%;
           height: 100%;
