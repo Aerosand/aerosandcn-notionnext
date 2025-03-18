@@ -23,7 +23,7 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
     <div
       id='post-bg'
       // className='md:mb-0 -mb-5 w-full h-[30rem] relative md:flex-shrink-0 overflow-hidden bg-cover bg-center bg-no-repeat z-10'>
-      className='md:mb-0 -mb-5 w-full h-[30rem] relative md:flex-shrink-0 overflow-hidden bg-cover bg-center bg-no-repeat z-10 lg:opacity-90'>
+      className='md:mb-0 -mb-5 w-full h-[30rem] relative md:flex-shrink-0 overflow-hidden bg-cover bg-center bg-no-repeat z-10 lg:opacity-80'>
       <style jsx>{`
         .coverdiv:after {
           position: absolute;
@@ -47,7 +47,8 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
             // filter: 'blur(15px)'
             filter: 'blur(5px)'
           }}
-          className='coverdiv lg:opacity-50 lg:translate-x-96 lg:rotate-12'>
+          // className='coverdiv lg:opacity-50 lg:translate-x-96 lg:rotate-12'>
+          className='coverdiv lg:opacity-80 lg:translate-x-96 lg:rotate-12'>
           <LazyImage
             id='post-cover'
             className='w-full h-full object-cover max-h-[50rem] min-w-[50vw] min-h-[20rem]'
