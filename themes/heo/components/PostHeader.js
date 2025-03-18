@@ -22,10 +22,12 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
   return (
     <div
       id='post-bg'
-      className='md:mb-0 -mb-5 w-full h-[30rem] relative md:flex-shrink-0 overflow-hidden bg-cover bg-center bg-no-repeat z-10'>
+      // className='md:mb-0 -mb-5 w-full h-[30rem] relative md:flex-shrink-0 overflow-hidden bg-cover bg-center bg-no-repeat z-10'>
+      className='md:mb-0 -mb-5 w-full h-[30rem] relative md:flex-shrink-0 overflow-hidden bg-cover bg-center bg-no-repeat z-10 lg:opacity-10'>
       <style jsx>{`
         .coverdiv:after {
           position: absolute;
+          filter: 'blur(5px)'; // mioz
           content: '';
           width: 100%;
           height: 100%;
@@ -43,10 +45,9 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
           id='post-cover-wrapper'
           style={{
             // filter: 'blur(15px)'
-            filter: 'blur(10px)'
+            filter: 'blur(5px)'
           }}
-          // className='coverdiv lg:opacity-50 lg:translate-x-96 lg:rotate-12'>
-          className='coverdiv lg:opacity-50 bg-center lg:rotate-12'>
+          className='coverdiv lg:opacity-50 lg:translate-x-96 lg:rotate-12'>
           <LazyImage
             id='post-cover'
             className='w-full h-full object-cover max-h-[50rem] min-w-[50vw] min-h-[20rem]'
