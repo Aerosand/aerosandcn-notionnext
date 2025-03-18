@@ -26,13 +26,13 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
       <style jsx>{`
         .coverdiv:after {
           position: absolute;
-          content: '';
+          // content: '';
+          content: none;
           width: 100%;
           height: 100%;
           top: 0;
           left: 0;
-          // box-shadow: 110px -130px 500px 100px
-          box-shadow: 0px -130px 500px 100px
+          box-shadow: 110px -130px 500px 100px
             ${isDarkMode ? '#CA8A04' : '#0060e0'} inset;
         }
       `}</style>
