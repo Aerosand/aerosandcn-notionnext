@@ -46,12 +46,10 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
             // filter: 'blur(15px)'
             filter: 'blur(5px)'
           }}
-          // className='coverdiv lg:opacity-50 lg:translate-x-96 lg:rotate-12'>
-          className="coverdiv w-full lg:w-[110%] lg:opacity-100 transform-gpu overflow-hidden"> // mioz
+          className='coverdiv lg:opacity-50 lg:translate-x-96 lg:rotate-12'>
           <LazyImage
             id='post-cover'
-            // className='w-full h-full object-cover max-h-[50rem] min-w-[50vw] min-h-[20rem]'
-            className='w-full h-full object-cover min-h-[20rem]' // mioz
+            className='w-full h-full object-cover max-h-[50rem] min-w-[50vw] min-h-[20rem]'
             src={headerImage}
           />
         </div>
