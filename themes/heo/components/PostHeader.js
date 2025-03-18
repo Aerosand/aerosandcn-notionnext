@@ -42,14 +42,12 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
         <div
           id='post-cover-wrapper'
           style={{
-            filter: 'blur(1000px)'
+            filter: 'blur(15px)'
           }}
-          //className='coverdiv lg:opacity-50 lg:translate-x-96 lg:rotate-12'>
-          className='coverdiv lg:opacity-100 lg:translate-x-96 lg:rotate-12'>
+          className='coverdiv lg:opacity-50 lg:translate-x-96 lg:rotate-12'>
           <LazyImage
             id='post-cover'
-            // className='w-full h-full object-cover max-h-[50rem] min-w-[50vw] min-h-[20rem]'
-            className='w-full h-full object-cover min-h-[20rem]'
+            className='w-full h-full object-cover max-h-[50rem] min-w-[50vw] min-h-[20rem]'
             src={headerImage}
           />
         </div>
