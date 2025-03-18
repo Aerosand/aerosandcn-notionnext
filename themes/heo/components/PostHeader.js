@@ -44,8 +44,8 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
           style={{
             filter: 'blur(1000px)'
           }}
-          // className='coverdiv lg:opacity-50 lg:translate-x-96 lg:rotate-12'>
-          className='coverdiv w-full lg:opacity-100'>
+          className='coverdiv lg:opacity-50 lg:translate-x-96 lg:rotate-12'>
+          //className='coverdiv w-full lg:opacity-100'>
           <LazyImage
             id='post-cover'
             // className='w-full h-full object-cover max-h-[50rem] min-w-[50vw] min-h-[20rem]'
