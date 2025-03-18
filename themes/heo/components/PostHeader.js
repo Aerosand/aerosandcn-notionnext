@@ -26,20 +26,18 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
       <style jsx>{`
         .coverdiv:after {
           position: absolute;
-          // content: '';
-          content: none;
+          content: '';
           width: 100%;
           height: 100%;
           top: 0;
           left: 0;
-          // box-shadow: 110px -130px 500px 100px
-          box-shadow: none
+          box-shadow: 110px -130px 500px 100px
             ${isDarkMode ? '#CA8A04' : '#0060e0'} inset;
         }
       `}</style>
 
       <div
-        className={`${isDarkMode ? 'bg-[#CA8A04]' : 'bg-[#0060e0]'} absolute top-0 w-full h-full py-10 flex justify-center items-center z-11`}>
+        className={`${isDarkMode ? 'bg-[#CA8A04]' : 'bg-[#0060e0]'} absolute top-0 w-full h-full py-10 flex justify-center items-center z-9`}>
         {/* 文章背景图 */}
         <div
           id='post-cover-wrapper'
