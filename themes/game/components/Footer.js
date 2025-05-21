@@ -18,7 +18,7 @@ export const Footer = props => {
         </p>
         <p>{siteConfig('DESCRIPTION')}</p>
 
-        <span className='dark:text-gray-200 no-underline ml-4'>
+        /*<span className='dark:text-gray-200 no-underline ml-4'>
           Powered by
           <a
             href='https://github.com/tangly1024/NotionNext'
@@ -26,7 +26,7 @@ export const Footer = props => {
             {' '}
             NotionNext {siteConfig('VERSION')}{' '}
           </a>
-        </span>
+        </span>*/
       </div>
     </footer>
   )
