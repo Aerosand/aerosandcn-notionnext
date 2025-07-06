@@ -1,3 +1,5 @@
+2025-07-06 update read
+
 2025-06-18 update Clarity analysis
 
 2025-06-04 update read part     
