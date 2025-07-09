@@ -36,6 +36,8 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
         }
       `}</style>
 
+
+
       <div
         className={`${isDarkMode ? 'bg-[#CA8A04]' : 'bg-[#0060e0]'} absolute top-0 w-full h-full py-10 flex justify-center items-center`}>
         {/* 文章背景图 */}
@@ -45,13 +47,14 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
             filter: 'blur(15px)'
           }}
           //className='coverdiv lg:opacity-50 lg:translate-x-96 lg:rotate-12'>
-          className='coverdiv w-full lg:opacity-50 lg:rotate-12'>
+          className='coverdiv w-full lg:opacity-50 lg:rotate-12'> // 宽度适应
           <LazyImage
             id='post-cover'
             className='w-full h-full object-cover max-h-[50rem] min-w-[50vw] min-h-[20rem]'
             src={headerImage}
           />
         </div>
+
 
         {/* 文章文字描述 */}
         <div
