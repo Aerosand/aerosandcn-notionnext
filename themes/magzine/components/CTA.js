@@ -12,7 +12,7 @@ export default function CTA({ notice }) {
       <Announcement
         post={notice}
         className={
-          'cta text-center text-black bg-[#C4EEF2] dark:bg-hexo-black-gray py-16'
+          'cta text-center text-black bg-[#F6F6F1] dark:bg-hexo-black-gray py-16'
         }
       />
     </>
