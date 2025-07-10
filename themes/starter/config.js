@@ -74,7 +74,7 @@ const CONFIG = {
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: true, // 价格区块开关
-  STARTER_PRICING_TITLE: '价格表',
+  STARTER_PRICING_TITLE: '推荐项目',
   STARTER_PRICING_TEXT_1: '很棒的定价计划',
   STARTER_PRICING_TEXT_2:
     '我们制定了灵活的付费模式，您可以按需选择。（NotionNext免费开源，这里仅演示产品订阅付费功能，请勿下单购买！）',
@@ -108,6 +108,16 @@ const CONFIG = {
   STARTER_PRICING_3_FEATURES: '包含基础版,功能定制开发', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_3_BUTTON_URL:
+    'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+
+  STARTER_PRICING_4_TITLE: '高级版',
+  STARTER_PRICING_4_PRICE: '59.9',
+  STARTER_PRICING_4_PRICE_CURRENCY: '$',
+  STARTER_PRICING_4_PRICE_PERIOD: '每月',
+  STARTER_PRICING_4_HEADER: '功能点',
+  STARTER_PRICING_4_FEATURES: '包含基础版,功能定制开发', // 英文逗号隔开
+  STARTER_PRICING_4_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_4_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
   // 首页用户测评区块
