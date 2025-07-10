@@ -73,7 +73,7 @@ const Footer = ({ title }) => {
         <div className='py-4 flex flex-col lg:flex-row  justify-between items-center border-t border-gray-400'>
           <div className='flex gap-x-2 flex-wrap justify-between items-center'>
             <CopyRightDate />
-            <PoweredBy />
+
           </div>
 
           <DarkModeButton className='text-white' />
