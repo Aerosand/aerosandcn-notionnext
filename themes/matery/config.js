@@ -1,5 +1,5 @@
 const CONFIG = {
-  MATERY_HOME_BANNER_ENABLE: true,
+  MATERY_HOME_BANNER_ENABLE: false,
   // 3.14.1以后的版本中，欢迎语在blog.config.js中配置，用英文逗号','隔开多个。
   MATERY_HOME_BANNER_GREETINGS: [
     'Hi，我是一个程序员',
