@@ -16,13 +16,13 @@ export default function TouchMeCard() {
   return (
     <div className={'relative h-32 text-black flex flex-col'}>
       <FlipCard
-        className='cursor-pointer lg:py-8 px-4 py-4 border bg-[#000000] dark:bg-yellow-600 dark:border-gray-600'
+        className='cursor-pointer lg:py-8 px-4 py-4 border bg-[#000000] dark:bg-yellow-600 dark:border-gray-600 rounded-lg'
         frontContent={
           <div className='h-full'>
-            <h2 className='font-[1000] text-white'>
+            <h2 className='font-[1000] text-white text -3xl'>
               {siteConfig('MAGZINE_SOCIAL_CARD_TITLE_1')}
             </h2>
-            <h3 className='pt-2'>
+            <h3 className='pt-2 text-white'>
               {siteConfig('MAGZINE_SOCIAL_CARD_TITLE_2')}
             </h3>
           </div>
