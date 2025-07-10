@@ -19,7 +19,7 @@ export default function TouchMeCard() {
         className='cursor-pointer lg:py-8 px-4 py-4 border bg-[#000000] dark:bg-yellow-600 dark:border-gray-600 rounded-lg'
         frontContent={
           <div className='h-full'>
-            <h2 className='font-[1000] text-white text -3xl'>
+            <h2 className='font-[1000] text-white text-3xl'>
               {siteConfig('MAGZINE_SOCIAL_CARD_TITLE_1')}
             </h2>
             <h3 className='pt-2 text-white'>
