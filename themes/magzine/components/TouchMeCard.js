@@ -29,7 +29,7 @@ export default function TouchMeCard() {
         }
         backContent={
           <Link href={siteConfig('MAGZINE_SOCIAL_CARD_URL', '#', CONFIG)}>
-            <div className='font-[1000] text-xl h-full'>
+            <div className='font-[1000] text-white text-xl h-full'>
               {siteConfig('MAGZINE_SOCIAL_CARD_TITLE_3')}
             </div>
           </Link>
