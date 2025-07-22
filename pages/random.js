@@ -5,9 +5,9 @@ import { useEffect } from 'react'
 export default function RandomRedirect() {
   useEffect(() => {
     const urls = [
-      'https://example.com/a',
-      'https://example.com/b',
-      'https://example.com/c',
+      'https://www.oasisand.cn/',
+      'https://blog.cuger.cn/',
+      'https://wangyunzi.com/',
     ];
     const randomUrl = urls[Math.floor(Math.random() * urls.length)];
     window.location.href = randomUrl;
