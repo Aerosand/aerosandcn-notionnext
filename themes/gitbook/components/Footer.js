@@ -49,14 +49,7 @@ const Footer = ({ siteInfo }) => {
         <i className='fas fa-users' />{' '}
         <span className='px-1 busuanzi_value_site_uv'> </span>{' '}
       </span>
-      <div className='text-xs font-serif'>
-        Powered By{' '}
-        <a
-          href='https://github.com/tangly1024/NotionNext'
-          className='underline text-gray-500 dark:text-gray-300'>
-          NotionNext {siteConfig('VERSION')}
-        </a>
-      </div>
+
       {/* SEO title */}
       <h1 className='pt-1 hidden'>{siteConfig('TITLE')}</h1>
     </footer>
