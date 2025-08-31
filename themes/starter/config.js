@@ -253,34 +253,39 @@ const CONFIG = {
   STARTER_TEAM_ITEMS: [
     {
       STARTER_TEAM_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
-      STARTER_TEAM_ITEM_NICKNAME: 'Tangly',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
+        'https://github.com/aerosand.png',
+      STARTER_TEAM_ITEM_NICKNAME: 'Aerosand',
+      STARTER_TEAM_ITEM_DESCRIPTION: '网站团队'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Melissa Tatcher',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Marketing Expert'
+      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/Aerosand/pics/blob/main/user.png',
+      STARTER_TEAM_ITEM_NICKNAME: 'Oasis',
+      STARTER_TEAM_ITEM_DESCRIPTION: '主笔'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Stuard Ferrel',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Digital Marketer'
+      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/Aerosand/pics/blob/main/user.png',
+      STARTER_TEAM_ITEM_NICKNAME: 'Shark',
+      STARTER_TEAM_ITEM_DESCRIPTION: '主笔'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Eva Hudson',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Creative Designer'
+      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/Aerosand/pics/blob/main/user.png',
+      STARTER_TEAM_ITEM_NICKNAME: '这里的',
+      STARTER_TEAM_ITEM_DESCRIPTION: '赞助'
+    },
+    {
+      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/Aerosand/pics/blob/main/user.png',
+      STARTER_TEAM_ITEM_NICKNAME: '**俊',
+      STARTER_TEAM_ITEM_DESCRIPTION: '赞助'
     }
   ],
 
   // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
-  STARTER_BLOG_TITLE: '我们的博客',
-  STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
+  STARTER_BLOG_TITLE: '我们的网站',
+  STARTER_BLOG_COUNT: 5, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: '最近的新闻',
   STARTER_BLOG_TEXT_2:
-    '这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
+    '这里会发布一些最新动态，包括课程更新、网站动向、未来计划等等',
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
