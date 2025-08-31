@@ -124,7 +124,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '哇，讲的太好了，真的太好了，无比清晰，感谢up主！非常清晰，非常连贯！ 意犹未尽，学习就像看电影一样，是一种清晰连贯的享受了。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/attachment%3A53d07345-e122-4c93-9be7-08677d256395%3Aimage.png?table=block&id=260d34b0-7c4c-8048-9f59-f668d6eec95c&spaceId=81cd34b0-7c4c-81c3-ac76-00034cd49f70&width=2000&userId=12bd872b-594c-8195-9955-000208c74b78&cache=v2',
+        'https://github.com/Aerosand/data_self/blob/main/website/icon/user.webp',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '流星飞宏',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'B站粉丝',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
@@ -133,7 +133,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '见过最好的CFD编程课教学，受益匪浅',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/attachment%3A53d07345-e122-4c93-9be7-08677d256395%3Aimage.png?table=block&id=260d34b0-7c4c-8048-9f59-f668d6eec95c&spaceId=81cd34b0-7c4c-81c3-ac76-00034cd49f70&width=2000&userId=12bd872b-594c-8195-9955-000208c74b78&cache=v2',
+        'https://github.com/Aerosand/data_self/blob/main/website/icon/user.webp',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '网站读者',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
@@ -142,7 +142,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '文字版之前就已经学完了，特别好，已充电。可能的话希望后续能写写边界条件以及一些典型类库的结构和开发，比如湍流模型，还有多相流的interfacial mass transfer之类的，期待~',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/attachment%3A53d07345-e122-4c93-9be7-08677d256395%3Aimage.png?table=block&id=260d34b0-7c4c-8048-9f59-f668d6eec95c&spaceId=81cd34b0-7c4c-81c3-ac76-00034cd49f70&width=2000&userId=12bd872b-594c-8195-9955-000208c74b78&cache=v2',
+        'https://github.com/Aerosand/data_self/blob/main/website/icon/user.webp',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '非牛顿猪咪',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'B站粉丝',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
@@ -151,7 +151,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '一个多月前看了UP主的教程，今天又看了一遍，常学常新，UP主很牛。期待新的大作！[脱单doge][星星眼]',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/attachment%3A53d07345-e122-4c93-9be7-08677d256395%3Aimage.png?table=block&id=260d34b0-7c4c-8048-9f59-f668d6eec95c&spaceId=81cd34b0-7c4c-81c3-ac76-00034cd49f70&width=2000&userId=12bd872b-594c-8195-9955-000208c74b78&cache=v2',
+        'https://github.com/Aerosand/data_self/blob/main/website/icon/user.webp',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '磊子哥1999',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'B站粉丝',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
@@ -160,7 +160,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '另加一句，关于编译这一块，up的介绍真的很棒，之前自己也瞎玩过一段时间OF，但关于编译都是很模糊的感觉，不知所以然。但现在，诚如up所言，“嗯，确实是这样的”[呲牙]',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/attachment%3A53d07345-e122-4c93-9be7-08677d256395%3Aimage.png?table=block&id=260d34b0-7c4c-8048-9f59-f668d6eec95c&spaceId=81cd34b0-7c4c-81c3-ac76-00034cd49f70&width=2000&userId=12bd872b-594c-8195-9955-000208c74b78&cache=v2',
+        'https://github.com/Aerosand/data_self/blob/main/website/icon/user.webp',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '小弟顶也顶不住啊',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'B站粉丝',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
@@ -169,7 +169,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '非常优秀的博主，看了博主网站上的sharing，感触很深，跨专业转CFD自学非常不容易，尤其是从0到1的求解器开发，深深的产生共鸣，希望博主能一直坚持跟新，我们一起追逐NS方程中的星程大海',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/attachment%3A53d07345-e122-4c93-9be7-08677d256395%3Aimage.png?table=block&id=260d34b0-7c4c-8048-9f59-f668d6eec95c&spaceId=81cd34b0-7c4c-81c3-ac76-00034cd49f70&width=2000&userId=12bd872b-594c-8195-9955-000208c74b78&cache=v2',
+        'https://github.com/Aerosand/data_self/blob/main/website/icon/user.webp',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '想去帝国的男人',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'B站粉丝',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
@@ -178,7 +178,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '简直写得太好了，受益匪浅！！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/attachment%3A53d07345-e122-4c93-9be7-08677d256395%3Aimage.png?table=block&id=260d34b0-7c4c-8048-9f59-f668d6eec95c&spaceId=81cd34b0-7c4c-81c3-ac76-00034cd49f70&width=2000&userId=12bd872b-594c-8195-9955-000208c74b78&cache=v2',
+        'https://github.com/Aerosand/data_self/blob/main/website/icon/user.webp',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '网站读者',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
@@ -187,15 +187,33 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'UP讲的非常清晰！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/attachment%3A53d07345-e122-4c93-9be7-08677d256395%3Aimage.png?table=block&id=260d34b0-7c4c-8048-9f59-f668d6eec95c&spaceId=81cd34b0-7c4c-81c3-ac76-00034cd49f70&width=2000&userId=12bd872b-594c-8195-9955-000208c74b78&cache=v2',
+        'https://github.com/Aerosand/data_self/blob/main/website/icon/user.webp',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'XiaoREN-XiaoXie',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'B站粉丝',
+      STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
+    },
+    {
+      STARTER_TESTIMONIALS_ITEM_TEXT:
+        'UP加油[星星眼]讲OpenFoan编程的真的很少',
+      STARTER_TESTIMONIALS_ITEM_AVATAR:
+        'https://github.com/Aerosand/data_self/blob/main/website/icon/user.webp',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '罐装的快乐',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'B站粉丝',
+      STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
+    },
+    {
+      STARTER_TESTIMONIALS_ITEM_TEXT:
+        '[打call][打call][打call]up你太棒了',
+      STARTER_TESTIMONIALS_ITEM_AVATAR:
+        'https://github.com/Aerosand/data_self/blob/main/website/icon/user.webp',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '不爱做科研的小侯学长',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'B站粉丝',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '这样的课程对OpenFOAM编程新手来说太重要了[星星眼]',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/attachment%3A53d07345-e122-4c93-9be7-08677d256395%3Aimage.png?table=block&id=260d34b0-7c4c-8048-9f59-f668d6eec95c&spaceId=81cd34b0-7c4c-81c3-ac76-00034cd49f70&width=2000&userId=12bd872b-594c-8195-9955-000208c74b78&cache=v2',
+        'https://github.com/Aerosand/data_self/blob/main/website/icon/user.webp',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '英特纳雄耐尔定实现',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'B站粉丝',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
