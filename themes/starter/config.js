@@ -124,7 +124,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '哇，讲的太好了，真的太好了，无比清晰，感谢up主！非常清晰，非常连贯！ 意犹未尽，学习就像看电影一样，是一种清晰连贯的享受了。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://github.com/Aerosand/pics/blob/main/user.png',
+        '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '流星飞宏',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'B站粉丝',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
@@ -133,7 +133,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '见过最好的CFD编程课教学，受益匪浅',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://github.com/Aerosand/pics/blob/main/user.png',
+        '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '网站读者',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
@@ -142,7 +142,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '文字版之前就已经学完了，特别好，已充电。可能的话希望后续能写写边界条件以及一些典型类库的结构和开发，比如湍流模型，还有多相流的interfacial mass transfer之类的，期待~',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://github.com/Aerosand/pics/blob/main/user.png',
+        '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '非牛顿猪咪',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'B站粉丝',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://aerosand.cn'
