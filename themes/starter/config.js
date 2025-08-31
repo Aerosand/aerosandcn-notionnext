@@ -258,22 +258,22 @@ const CONFIG = {
       STARTER_TEAM_ITEM_DESCRIPTION: '网站团队'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/aerosand.png',
+      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/oasisand.png',
       STARTER_TEAM_ITEM_NICKNAME: 'Oasis',
       STARTER_TEAM_ITEM_DESCRIPTION: '主笔'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/aerosand.png',
+      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/oasisand.png',
       STARTER_TEAM_ITEM_NICKNAME: 'Shark',
       STARTER_TEAM_ITEM_DESCRIPTION: '主笔'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/aerosand.png',
+      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/oasisand.png',
       STARTER_TEAM_ITEM_NICKNAME: '这里的',
       STARTER_TEAM_ITEM_DESCRIPTION: '赞助'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/aerosand.png',
+      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/oasisand.png',
       STARTER_TEAM_ITEM_NICKNAME: '**俊',
       STARTER_TEAM_ITEM_DESCRIPTION: '赞助'
     }
