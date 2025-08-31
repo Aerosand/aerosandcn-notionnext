@@ -332,45 +332,48 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: '阅读文档', URL: 'https://aerosand.cc' },
         {
-          TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          TITLE: '微信公众号',
+          URL: '/wechat'
         },
         {
-          TITLE: '合作申请',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          TITLE: 'Github Discussions',
+          URL: 'https://github.com/Aerosand/Aerosand.cn/discussions'
         }
       ]
     },
     {
-      TITLE: '功能特性',
+      TITLE: '内容',
       LINK_GROUP: [
         {
-          TITLE: '部署指南',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          TITLE: '新闻',
+          URL: '/category/news'
         },
         {
-          TITLE: '升级指南',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
-        },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+          TITLE: '文章',
+          URL: '/category/post'
+        }
       ]
     },
     {
-      TITLE: 'Notion写作',
+      TITLE: '课程链接',
       LINK_GROUP: [
         {
-          TITLE: 'Notion开始写作',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          TITLE: 'OFSB',
+          URL: 'https://aerosand.cc/ofs/ofsb'
         },
         {
-          TITLE: '快捷键提升效率',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          TITLE: 'OFSP',
+          URL: 'https://aerosand.cc/ofs/ofsp'
         },
         {
-          TITLE: '中国大陆使用Notion',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          TITLE: 'OFSS',
+          URL: 'https://aerosand.cc/ofs/ofss'
+        },
+        {
+          TITLE: 'OFST',
+          URL: 'https://aerosand.cc/ofs/ofst'
         }
       ]
     }
