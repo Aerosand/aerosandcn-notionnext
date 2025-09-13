@@ -269,6 +269,11 @@ const CONFIG = {
     },
     {
       STARTER_TEAM_ITEM_AVATAR: 'https://github.com/oasisand.png',
+      STARTER_TEAM_ITEM_NICKNAME: '**刚',
+      STARTER_TEAM_ITEM_DESCRIPTION: '赞助'
+    },
+    {
+      STARTER_TEAM_ITEM_AVATAR: 'https://github.com/oasisand.png',
       STARTER_TEAM_ITEM_NICKNAME: '这里的',
       STARTER_TEAM_ITEM_DESCRIPTION: '赞助'
     },
