@@ -366,19 +366,19 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: 'OFSB',
-          URL: 'https://aerosand.cc/ofs/ofsb'
+          URL: 'https://aerosand.cc/docs/ofs/ofsb/'
         },
         {
           TITLE: 'OFSP',
-          URL: 'https://aerosand.cc/ofs/ofsp'
+          URL: 'https://aerosand.cc/docs/ofs/ofsp/'
         },
         {
           TITLE: 'OFSS',
-          URL: 'https://aerosand.cc/ofs/ofss'
+          URL: 'https://aerosand.cc/docs/ofs/ofss/'
         },
         {
           TITLE: 'OFST',
-          URL: 'https://aerosand.cc/ofs/ofst'
+          URL: 'https://aerosand.cc/docs/ofs/ofst/'
         }
       ]
     }
